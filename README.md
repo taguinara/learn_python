@@ -1,2 +1,1 @@
-## Projetos
-Estudo pessoal. 
+## Projects
